@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 44, "git_revision": "", "state": 3, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "ctags": [], "hash": null, "format-version": 4, "code-base-name": "default", "filename": "techprep_ai_frontend/eslint.config.js", "knowledge_revision": 91}
