@@ -1,0 +1,6 @@
+import React from "react";
+// PUBLIC_INTERFACE
+export default function Modal({ open, children }) {
+  if (!open) return null;
+  return <div className="modal">{children}</div>;
+}
